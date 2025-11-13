@@ -92,7 +92,7 @@ section{
     display: flex;
     align-items: center;
     padding: 0 9%;
-    background: url("../Image/benky.jpg") no-repeat center center/cover;
+    background: url("../Image/oklm.jpg") no-repeat center center/cover;
     background-size: cover;
     background-position: center;
 
@@ -902,4 +902,5 @@ span{
     }
 
 }
+
 
